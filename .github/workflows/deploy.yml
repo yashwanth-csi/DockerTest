@@ -14,7 +14,7 @@ env:
   REGISTRY_NAME: csbplatform
   CLUSTER_NAME: aks-clearphoenix-dev
   CLUSTER_RESOURCE_GROUP: rg-clearphoenix-dev
-  APP_NAME: renalfailure-api
+  APP_NAME: dockertest
 
 jobs:
   deploy:
